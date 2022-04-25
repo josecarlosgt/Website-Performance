@@ -1,0 +1,27 @@
+/* Positioning full height video and text in header */
+
+img#header-logo {
+    height: 3rem;
+}
+
+h1.header-title {
+    font-family: 'Syncopate', sans-serif;
+    letter-spacing: 2vw;
+    font-size: 2vw;
+    text-shadow: 2px 2px black;
+}
+
+span.header-subtitle {
+    letter-spacing: -0.5vw;
+    font-size: 6vw;
+}
+
+/* Full height video */
+video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
