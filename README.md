@@ -1,6 +1,6 @@
 # Laguna Brava Ecotourism Website
 
-The purpose of the website Laguna Brava Ecotourism is to promote the activities offered by the communities settled around the lake Laguna Brava in western Guatemala.
+This websites promotes activities offered by the communities settled around the lake Laguna Brava in western Guatemala.
 
 This website is based on the [Grayscale](https://startbootstrap.com/theme/grayscale) template from [Start Bootstrap](https://startbootstrap.com/).
 
