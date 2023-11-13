@@ -17,10 +17,12 @@ window.addEventListener('DOMContentLoaded', event => {
         }
         if (window.scrollY === 0) {
             navbarCollapsible.classList.remove('navbar-shrink')
+            document.body.querySelector('#header-logo').setAttribute("src", "assets/img/logo.png")
         } else {
             navbarCollapsible.classList.add('navbar-shrink')
+            document.body.querySelector('#mainNav')
+            document.body.querySelector('#header-logo').setAttribute("src", "assets/img/logo-black.png")
         }
-
     };
 
     // Shrink the navbar 
