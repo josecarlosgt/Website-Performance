@@ -19,6 +19,8 @@ header {
 }
 ```
 
+> These properties specify an image as the background of the header element. Notice the image's URL is specified in the stylesheet, not the HTML. Thus, the path to the image is relative to the CSS file.
+
 ```html
 <header>
   ...
@@ -26,5 +28,3 @@ header {
 ```
 
 Source:  [CSS-Tricks: Full-Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
-
-> These properties specify an image as the background of the header element. Notice the image's URL is specified in the stylesheet, not the HTML. Thus, the path to the image is relative to the CSS file.
