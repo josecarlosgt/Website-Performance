@@ -8,9 +8,7 @@ Access the [Laguna Brava Ecotourism Website here](https://josecarlosgt.github.io
 
 ### Full-height header image
 
-Websites commonly use an image as background that occupies the full height of the screen when the first page is loaded to deliver an impactful first impression to their users. 
-
-You can create a full-height header image by specifying a few properties that affect the background settings of an HTML element, such as a div or header element. For example: 
+The webpage above shows a full-height image on its header. Websites commonly use an image as a background that occupies the full height of the screen on their homepage to deliver an impactful first impression to their users. You can create a full-height header image by specifying a few properties that affect the background settings of an HTML element, such as a div or header element. For example: 
 
 ```css
 header {
