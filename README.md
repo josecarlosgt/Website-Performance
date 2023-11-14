@@ -7,7 +7,7 @@ This website is based on the [Grayscale](https://startbootstrap.com/theme/graysc
 Links:
 - [Website published on GitHub Pages](https://josecarlosgt.github.io/Laguna-Brava/header-image-optimized/index.html)
 - [Google Lighthouse Report (Desktop)](https://googlechrome.github.io/lighthouse/viewer/?gist=c542a7d8164c482972dbbb36de5615c2)
-- [Google Lighthouse Report (Mobile)](https://googlechrome.github.io/lighthouse/viewer/?gist=c542a7d8164c482972dbbb36de5615c2)
+- [Google Lighthouse Report (Mobile)](https://googlechrome.github.io/lighthouse/viewer/?gist=5db5ae4337a717ab8a9b2cb809a80aba)
 
 ### Full-height header image
 
