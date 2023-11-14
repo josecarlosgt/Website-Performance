@@ -1,12 +1,13 @@
 # Laguna Brava Ecotourism Website
 
-These websites promote activities offered by the communities settled around the lake Laguna Brava in western Guatemala.
+This website promotes activities offered by the communities settled around the lake Laguna Brava in western Guatemala.
 
 This website is based on the [Grayscale](https://startbootstrap.com/theme/grayscale) template from [Start Bootstrap](https://startbootstrap.com/).
 
-Access the [Laguna Brava Ecotourism Website here](https://josecarlosgt.github.io/Laguna-Brava/header-image-optimized/index.html)
-
-Access [Google Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?gist=c542a7d8164c482972dbbb36de5615c2) to examine the web page's quality.
+Links:
+- [Website published on GitHub Pages](https://josecarlosgt.github.io/Laguna-Brava/header-image-optimized/index.html)
+- [Google Lighthouse Report (Desktop)](https://googlechrome.github.io/lighthouse/viewer/?gist=c542a7d8164c482972dbbb36de5615c2)
+- [Google Lighthouse Report (Mobile)](https://googlechrome.github.io/lighthouse/viewer/?gist=c542a7d8164c482972dbbb36de5615c2)
 
 ### Full-height header image
 
